@@ -21,7 +21,7 @@ Security Features: This project currently does not include advanced security fea
 Bootstrap: The project does not utilize Bootstrap for styling. Users may add Bootstrap or other CSS frameworks to enhance the design and responsiveness of the application.
 
 # Installation and Setup
-1. Clone the repository : git clone 
+1. Clone the repository : git clone https://github.com/vbarot3699/GDriveClone.git
 2. Navigate to the project directory : cd GDriveClone-PHP/
 3. Import the GDriveCloneDB.sql file into your MySQL database.
 4. Configure the db.php file with your database credentials.
